@@ -1,0 +1,24 @@
+{
+  "course_number": 4,
+  "course_title": "Attention Economics",
+  "folder": "04-Attention-Economics",
+  "discipline_framing": "Media economics, platform studies, and behavioral science applied to attention as a scarce, measurable resource",
+  "domain_short": "Attention economics",
+  "audience": "Trend analysts, brand and content strategists, growth teams, and researchers who must measure and interpret how much attention brands, creators, content, and movements capture across platforms",
+  "sources": [
+    "Herbert Simon, 'Designing Organizations for an Information-Rich World' (the poverty-of-attention thesis) and Tim Wu, The Attention Merchants",
+    "Davenport & Beck, The Attention Economy",
+    "Goldhaber, 'The Attention Economy and the Net' and the dot-com-era attention-economics literature",
+    "Ehrenberg-Bass Institute work on brand salience and mental availability (Byron Sharp, How Brands Grow; Jenni Romaniuk on fame and distinctiveness)",
+    "Nielsen, Lumen, and Adelaide research on attention measurement, viewability, and attention metrics",
+    "Platform transparency reports and engagement-optimization disclosures (Meta, TikTok, YouTube recommendation documentation)",
+    "The agenda-setting and framing literature (McCombs & Shaw; Entman) for attention in public discourse"
+  ],
+  "pitfalls": [
+    "Treating engagement metrics as attention itself rather than as noisy, manipulable proxies",
+    "Ignoring attention quality and context (dwell, sentiment, purchase intent) and optimizing raw volume",
+    "Confusing paid reach, algorithmic amplification, and earned attention in measurement",
+    "Assuming attention converts linearly to memory, preference, or sales without evidence",
+    "Overlooking the competitive frame — attention is relative share within a category, not an absolute number"
+  ]
+}
