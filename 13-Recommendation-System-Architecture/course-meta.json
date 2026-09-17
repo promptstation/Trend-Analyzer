@@ -1,0 +1,24 @@
+{
+  "course_number": 13,
+  "course_title": "Recommendation System Architecture",
+  "folder": "13-Recommendation-System-Architecture",
+  "discipline_framing": "Recommender systems engineering, platform studies, and algorithmic-auditing methods applied to reverse-engineering how TikTok's For You feed, YouTube, and Google Trends curate and amplify signals that become trends",
+  "domain_short": "Recommendation systems",
+  "audience": "Trend analysts, data scientists, growth and content strategists, and researchers who must understand and probe the algorithmic layer that decides what content, creators, and topics get amplified into trends",
+  "sources": [
+    "Aggarwal, Recommender Systems: The Textbook, and Jannach et al. foundations for the classical architecture",
+    "Covington, Adams & Sargin, 'Deep Neural Networks for YouTube Recommendations' (RecSys 2016) — the canonical two-stage architecture disclosure",
+    "TikTok, YouTube, and Instagram official transparency disclosures on how recommendation systems work (TikTok's 'How TikTok recommends' and For You feed documentation; YouTube's recommendation guidance)",
+    "Rendle-lineage matrix-factorization and factorization-machine literature; two-tower retrieval and ranking practice from industry engineering blogs",
+    "Chen et al. on top-K recommender evaluation pitfalls, and the offline-online evaluation gap literature",
+    "Algorithmic auditing research: sock-puppet and mystery-shopping methods (e.g., investigations of TikTok and YouTube recommendation dynamics), and the DSA transparency obligations for recommender disclosure",
+    "Google Trends methodology documentation and the search-suggest/query-log literature"
+  ],
+  "pitfalls": [
+    "Treating platform disclosures as complete truth — official explanations are simplified, selective, and change without notice",
+    "Confusing correlation in observed feeds with algorithmic causation — personalization, social spread, and seasonality confound every observation",
+    "Auditing with single accounts and concluding population-level algorithmic behavior from n=1",
+    "Optimizing content for a guessed ranking formula rather than for documented engagement-quality signals, then calling it reverse engineering",
+    "Ignoring that recommendation systems retrain continuously — yesterday's reverse-engineered behavior may be obsolete"
+  ]
+}

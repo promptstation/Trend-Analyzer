@@ -1,0 +1,24 @@
+{
+  "course_number": 10,
+  "course_title": "Demographics & Generational Dynamics",
+  "folder": "10-Demographics-and-Generational-Dynamics",
+  "discipline_framing": "Population science, generational sociology, and consumer economics applied to how population structure, aging, urbanization, and cohort value shifts drive trends",
+  "domain_short": "Demographics and generations",
+  "audience": "Trend analysts, strategists, market researchers, and planners who must ground trend forecasts in population structure, generational values, purchasing power, and geographic shifts",
+  "sources": [
+    "United Nations, World Population Prospects — the standard global projection dataset and methods",
+    "Preston, Heuveline & Guillot, Demography: Measuring and Modeling Population Processes — cohort-component foundations",
+    "Inglehart & Welzel and the World Values Survey / European Values Study program on intergenerational value change",
+    "Pew Research Center generational research methodology and defining-cohort literature",
+    "Twenge, Generations (and the critical methodological debates over period-vs-cohort attribution)",
+    "World Bank and UN-Habitat urbanization data; the Lancet/IHME fertility and population forecasting literature",
+    "OECD and national statistical office aging, household, and consumption data for purchasing-power analysis"
+  ],
+  "pitfalls": [
+    "Generational essentialism — treating cohort labels as fixed personality types instead of rough averages shaped by period events",
+    "Confusing age, period, and cohort effects (they are collinear; identification requires assumptions)",
+    "Using global projections without checking regional and national variation — Africa's youth structure differs radically from Europe's or East Asia's",
+    "Treating demographics as destiny — population structure constrains but does not determine cultural and market outcomes",
+    "Ignoring data quality — census gaps, registration completeness, and survey coverage bias vary enormously by country"
+  ]
+}

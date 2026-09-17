@@ -1,0 +1,24 @@
+{
+  "course_number": 8,
+  "course_title": "Subculture Evolution",
+  "folder": "08-Subculture-Evolution",
+  "discipline_framing": "Cultural studies, sociology of style, and fashion theory applied to how underground movements form, get co-opted, and mainstream into trends",
+  "domain_short": "Subculture evolution",
+  "audience": "Trend analysts, fashion and brand strategists, cultural researchers, and forecasters who must spot underground movements early and judge when and how they will surface commercially",
+  "sources": [
+    "Hebdige, Subculture: The Meaning of Style — bricolage, homology, incorporation (the Birmingham School classic)",
+    "Hall & Jefferson (eds.), Resistance Through Rituals — CCCS foundations",
+    "Thornton, Club Cultures — subcultural capital, taste cultures, and the media's constitutive role",
+    "Muggleton, Within Subculture and the post-subculture debates; Bennett and Straw on scenes and neo-tribes",
+    "Polhemus, Streetstyle — the bubble-up model of style diffusion; Simmel's trickle-down and its modern revisions",
+    "Haenfler, Subcultures: The Basics, and contemporary digital-aesthetic scholarship (the '-core' phenomenon, aesthetic wikis)",
+    "Davis, Fashion, Culture, and Identity, and the fashion-cycle literature for commercial absorption patterns"
+  ],
+  "pitfalls": [
+    "Treating subcultures as coherent, bounded, resistance-driven groups when contemporary formations are fluid, overlapping, and often aesthetic-first",
+    "Reading style as automatic class or political resistance (the CCCS critique) without evidence from the people wearing it",
+    "Confusing media visibility with mainstreaming, or internet aesthetics with lived scenes",
+    "Extracting subcultural signals commercially without credit, context, or community relationship — triggering authenticity backlash",
+    "Assuming linear lifecycles: subcultures fragment, revive, hybridize, and skip stages"
+  ]
+}

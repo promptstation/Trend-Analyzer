@@ -1,0 +1,90 @@
+# Exercise and Checklist Library — Social Movements: Theory and Dynamics
+
+Read this during Phase 5 (exercises) and Phase 6 (checklists). Adapt
+scenarios to the audience's domain; keep evaluation criteria intact — they
+are what make the exercises assessable. In full-module mode, write an
+expert-quality model solution for each included exercise.
+
+## Table of Contents
+- Part A: Practical Exercises
+- Part B: Professional Gate Checklists
+
+---
+
+# Part A: Practical Exercises
+
+## Exercise 1 — Analyze movements through resource-mobilization
+**Scenario:** provide a realistic Socio-political and environmental drivers scenario appropriate to the audience (real or closely modeled on documented practice).
+**Objective:** analyze movements through resource-mobilization, political-process, and framing frameworks.
+**Constraints:** must use the framework taught in the corresponding unit; must state assumptions and trade-offs; one deliverable, length-bounded.
+**Deliverable:** the professional artifact this capability produces (memo, table, plan, analysis, or model — as applicable).
+**Evaluation criteria:** correct application of the framework; decisions justified with evidence; limitations honestly stated; artifact usable by a colleague without further explanation.
+
+## Exercise 2 — Assess movement lifecycle stage and success conditions from documented correlates
+**Scenario:** provide a realistic Socio-political and environmental drivers scenario appropriate to the audience (real or closely modeled on documented practice).
+**Objective:** assess movement lifecycle stage and success conditions from documented correlates.
+**Constraints:** must use the framework taught in the corresponding unit; must state assumptions and trade-offs; one deliverable, length-bounded.
+**Deliverable:** the professional artifact this capability produces (memo, table, plan, analysis, or model — as applicable).
+**Evaluation criteria:** correct application of the framework; decisions justified with evidence; limitations honestly stated; artifact usable by a colleague without further explanation.
+
+## Exercise 3 — Evaluate digital mobilization's speed-depth trade-offs and hybrid organization
+**Scenario:** provide a realistic Socio-political and environmental drivers scenario appropriate to the audience (real or closely modeled on documented practice).
+**Objective:** evaluate digital mobilization's speed-depth trade-offs and hybrid organization.
+**Constraints:** must use the framework taught in the corresponding unit; must state assumptions and trade-offs; one deliverable, length-bounded.
+**Deliverable:** the professional artifact this capability produces (memo, table, plan, analysis, or model — as applicable).
+**Evaluation criteria:** correct application of the framework; decisions justified with evidence; limitations honestly stated; artifact usable by a colleague without further explanation.
+
+## Exercise 4 — Map countermovement dialectics driving culture-war dynamics
+**Scenario:** provide a realistic Socio-political and environmental drivers scenario appropriate to the audience (real or closely modeled on documented practice).
+**Objective:** map countermovement dialectics driving culture-war dynamics.
+**Constraints:** must use the framework taught in the corresponding unit; must state assumptions and trade-offs; one deliverable, length-bounded.
+**Deliverable:** the professional artifact this capability produces (memo, table, plan, analysis, or model — as applicable).
+**Evaluation criteria:** correct application of the framework; decisions justified with evidence; limitations honestly stated; artifact usable by a colleague without further explanation.
+
+## Exercise 5 — Trace movement-to-institution pathways converting protest into regulation and market norms
+**Scenario:** provide a realistic Socio-political and environmental drivers scenario appropriate to the audience (real or closely modeled on documented practice).
+**Objective:** trace movement-to-institution pathways converting protest into regulation and market norms.
+**Constraints:** must use the framework taught in the corresponding unit; must state assumptions and trade-offs; one deliverable, length-bounded.
+**Deliverable:** the professional artifact this capability produces (memo, table, plan, analysis, or model — as applicable).
+**Evaluation criteria:** correct application of the framework; decisions justified with evidence; limitations honestly stated; artifact usable by a colleague without further explanation.
+
+## Exercise 6 — Integrated capstone
+**Scenario:** one realistic problem spanning the whole section.
+**Objective:** take the problem through every unit's framework in sequence.
+**Constraints:** all unit artifacts required and internally consistent; evidence discipline maintained throughout.
+**Deliverable:** a coherent campaign/portfolio document assembled as real professional documentation.
+**Evaluation criteria:** consistency across artifacts; each capability demonstrably exercised; trade-offs stated at each decision point.
+
+---
+
+# Part B: Professional Gate Checklists
+
+Use verbatim as module appendices and as workshop job aids. Every item must
+force a decision or produce an artifact — items that are merely
+inspirational get cut.
+
+## B1. Analyze movements through resource mobilization, checklist
+- [ ] Analyze movements through resource-mobilization, political-process, and framing frameworks?
+- [ ] Decisions and their justification are documented for review by a colleague
+
+## B2. Assess movement lifecycle stage checklist
+- [ ] Assess movement lifecycle stage and success conditions from documented correlates?
+- [ ] Decisions and their justification are documented for review by a colleague
+
+## B3. Evaluate digital mobilization's speed depth checklist
+- [ ] Evaluate digital mobilization's speed-depth trade-offs and hybrid organization?
+- [ ] Decisions and their justification are documented for review by a colleague
+
+## B4. Map countermovement dialectics driving checklist
+- [ ] Map countermovement dialectics driving culture-war dynamics?
+- [ ] Decisions and their justification are documented for review by a colleague
+
+## B5. Trace movement to institution pathways converting checklist
+- [ ] Trace movement-to-institution pathways converting protest into regulation and market norms?
+- [ ] Decisions and their justification are documented for review by a colleague
+
+## B6. Delivery quality checklist
+- [ ] Every claim sourced, graded, or flagged as contested?
+- [ ] All terminology explained on first use?
+- [ ] Trade-offs stated wherever recommendations are context-dependent?
+- [ ] Material reads as practitioner-written, not generic?

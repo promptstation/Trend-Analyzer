@@ -1,0 +1,41 @@
+# STEP 2 — Engineered Prompt for Section 15 (Information Ecosystems)
+
+Produced by applying `_pipeline/step1-reusable-prompt.md` to Section 15 of
+the Information Ecosystems curriculum outlook. This prompt is the task input for Step 4
+skill creation (per Skill Building.md).
+
+---
+
+RESULT:
+
+Develop a comprehensive, professional-level learning module on **“Synthesis and Capstone: Information-Ecosystem Intelligence”** as an advanced capstone stage of a curriculum in Media ecology, misinformation science, and platform governance applied to tracking misinformation lifecycles, echo chamber formation, and the shifting balance between legacy and digital media. Prepare expert integration: the consolidated framework — information ecosystems analyzed across structure (media systems, producer landscape), pathology (misinformation lifecycles, operations), psychology (belief and sharing mechanisms), community (chambers and polarization), governance (platform moderation, state regulation), defense (literacy, correction, provenance), and frontier (synthetic media) as one intelligence discipline; the ecosystem-intelligence workflow — the complete professional process: map the ecosystem structure relevant to a trend domain, monitor information flows with claim tracking, detect and verify problematic content with forensics and coordination analysis, assess community structure and chamber dynamics, evaluate governance and defense capacity, forecast ecosystem shifts (including AI-content impacts), and deliver signal-quality-qualified trend intelligence; the signal-quality layer concept — this course's integration role: every trend signal from the other courses (social volume, sentiment, search, network cascades) requires ecosystem qualification (is it organic, coordinated, synthetic, distorted?) before decision use; cross-course integration — recommendation systems (course 13) as the amplification infrastructure, networks (course 2) as the chamber substrate, NLP (course 1) as the detection toolset, memetics (course 5) as the claim-mutation model, attention economics (course 4) as the incentive layer, and driver analysis (course 11) as the political context; case synthesis — worked ecosystem analyses (an election-information environment, a health-misinformation domain, a brand-attack campaign, an AI-content-flood niche) decomposed through the framework; failure post-mortems — the canonical errors (taxonomy sloppiness, exposure-belief conflation, correction-optimism, n=1 coordination claims, legacy-digital generational framing) with prevention practice; the deliverable suite — ecosystem maps, misinformation-event briefs, chamber analyses, operations assessments, and signal-quality qualifications as the professional outputs; the ethics position — analysis defending information environments without building manipulation or surveillance capability; and the capstone — a complete information-ecosystem intelligence project: select a trend-relevant ecosystem domain, map its structure and community landscape, build a monitoring pipeline with claim tracking and coordination detection, assess its pathologies and defenses with lifecycle and psychology grounding, qualify the trend signals flowing through it, and deliver an ecosystem-intelligence report with governance context and synthetic-media scenario readiness. The module should assume the learner is progressing from competent beginner toward expert practitioner, and should function simultaneously as a learning resource, a practical reference, and a working methodology.
+
+Convert each of the following capabilities the learner must gain into explicit “Teach how to” treatment with a practical framework the learner could use on a real project, not merely theory:
+
+* Teach how to execute complete ecosystem-intelligence workflows from structural mapping through monitoring, detection, and assessment to delivery, qualify trend signals for organicity, coordination, and synthesis before decision use.
+
+* Teach how to integrate recommendation, network, NLP, memetic, and attention methods into ecosystem analysis, avoid canonical errors (taxonomy sloppiness, exposure-belief conflation, n=1 coordination claims) through documented practice, and deliver ecosystem-intelligence reports with governance context, ethics position, and synthetic-media readiness.
+
+Use numerous realistic examples throughout the module, drawn from professional practice in Media ecology, misinformation science, and platform governance applied to tracking misinformation lifecycles, echo chamber formation, and the shifting balance between legacy and digital media. For each important principle, show weak, improved, and professional-level versions of the same work where useful.
+
+Include practical exercises that require the learner to:
+
+1. Execute complete ecosystem-intelligence workflows from structural mapping through monitoring, detection, and assessment to delivery, qualify trend signals for organicity, coordination, and synthesis before decision use, applied to a realistic scenario provided with the exercise.
+
+2. Integrate recommendation, network, NLP, memetic, and attention methods into ecosystem analysis, avoid canonical errors (taxonomy sloppiness, exposure-belief conflation, n=1 coordination claims) through documented practice, and deliver ecosystem-intelligence reports with governance context, ethics position, and synthetic-media readiness, applied to a realistic scenario provided with the exercise.
+
+3. Integrate the full section: take one realistic problem in Information ecosystems through every capability above as a coherent capstone deliverable.
+
+For each exercise, provide the scenario, objective, constraints, expected deliverable, evaluation criteria, and an expert-quality example solution where appropriate.
+
+Structure the material progressively: establish the fundamental concepts and distinctions of this section first, then move toward advanced professional application, showing how the concepts interact only after each is clear on its own.
+
+Use professional terminology from Media ecology, misinformation science, and platform governance applied to tracking misinformation lifecycles, echo chamber formation, and the shifting balance between legacy and digital media where relevant, but explain each specialized term in clear language on first use. Do not make the material sound like generic AI-generated advice; it should read as if written by an experienced practitioner.
+
+Research the subject using high-quality professional and academic sources. Prioritize authoritative sources such as Wardle & Derakhshan, Information Disorder: Toward an Interdisciplinary Framework — the misinformation/disinformation/malinformation taxonomy; Vosoughi, Roy & Aral, 'The Spread of True and False News Online' (Science 2018) and the diffusion-of-misinformation research program; Pennycook, Rand, and the accuracy-motivation literature on misinformation psychology; Lewandowsky-lineage debunking and inoculation research; The Reuters Institute Digital News Report for legacy-versus-digital media consumption shifts across countries; Starbird, Ridert & the CICU lineage on rumor cascades, mass-shooting misinformation, and crisis-information dynamics; The EU DisinfoCode / DSA and the platform-governance literature on coordinated inauthentic behavior detection (Meta/Graphika disclosure reports); Postill, Coleman and the media-ecology tradition (McLuhan to platform ecology) for ecosystem framing. Avoid relying on low-quality SEO articles, content farms, or unsupported “best practice” claims; distinguish established research findings from professional conventions and informed recommendations, and never invent statistics or citations.
+
+Where a recommendation depends on context, explicitly explain the trade-off rather than presenting it as an absolute rule.
+
+End the module with actionable professional checklists — a execute-complete-ecosystem-intelligence checklist, a integrate-recommendation-network-nlp checklist — that a practitioner could actually use before real-world delivery.
+
+The final result should be comprehensive enough to serve as an advanced professional training module, organized clearly enough that a learner can study it progressively and apply each concept in practical work.

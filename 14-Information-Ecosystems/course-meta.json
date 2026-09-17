@@ -1,0 +1,24 @@
+{
+  "course_number": 14,
+  "course_title": "Information Ecosystems",
+  "folder": "14-Information-Ecosystems",
+  "discipline_framing": "Media ecology, misinformation science, and platform governance applied to tracking misinformation lifecycles, echo chamber formation, and the shifting balance between legacy and digital media",
+  "domain_short": "Information ecosystems",
+  "audience": "Trend analysts, communications and risk professionals, researchers, and strategists who must understand how information — accurate and false — circulates, hardens into belief communities, and distorts or drives trends",
+  "sources": [
+    "Wardle & Derakhshan, Information Disorder: Toward an Interdisciplinary Framework — the misinformation/disinformation/malinformation taxonomy",
+    "Vosoughi, Roy & Aral, 'The Spread of True and False News Online' (Science 2018) and the diffusion-of-misinformation research program",
+    "Pennycook, Rand, and the accuracy-motivation literature on misinformation psychology; Lewandowsky-lineage debunking and inoculation research",
+    "The Reuters Institute Digital News Report for legacy-versus-digital media consumption shifts across countries",
+    "Starbird, Ridert & the CICU lineage on rumor cascades, mass-shooting misinformation, and crisis-information dynamics",
+    "The EU DisinfoCode / DSA and the platform-governance literature on coordinated inauthentic behavior detection (Meta/Graphika disclosure reports)",
+    "Postill, Coleman and the media-ecology tradition (McLuhan to platform ecology) for ecosystem framing"
+  ],
+  "pitfalls": [
+    "Using misinformation, disinformation, and malinformation interchangeably — intent and harm distinctions carry analytic and legal weight",
+    "Assuming exposure equals belief, and belief equals behavior change — the documented gaps are large",
+    "Treating corrections as automatic fixes — backfire and familiarity effects require careful debunking design",
+    "Reading coordinated-campaign disclosures as the whole threat — mundane organic misinformation usually outweighs operations",
+    "Legacy-versus-digital framing as generational war — actual consumption is hybrid, and trust patterns vary more by country than by age"
+  ]
+}

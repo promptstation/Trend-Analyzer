@@ -1,0 +1,24 @@
+{
+  "course_number": 11,
+  "course_title": "Socio-Political & Environmental Drivers",
+  "folder": "11-Socio-Political-and-Environmental-Drivers",
+  "discipline_framing": "Political science, social-movement theory, policy analysis, and environmental studies applied to how elections, regulation, geopolitics, movements, and climate shape consumer trends",
+  "domain_short": "Socio-political and environmental drivers",
+  "audience": "Trend analysts, strategists, risk and public-affairs teams, and researchers who must anticipate how political events, regulation, social movements, and environmental change redirect consumer and market trends",
+  "sources": [
+    "The PESTEL/STEEP macro-environment scanning tradition in strategic management",
+    "Tarrow, Power in Movement, and Tilly's work on social movements — political-process and mobilization theory",
+    "Benford & Snow on collective-action framing; Hirschman, Exit, Voice, and Loyalty for consumer-political action",
+    "Boycott and political-consumerism research (Glickman, Edited Volume 'Boycotts'; Micheletti's political virtualism; Neilson's data on boycott/buycott prevalence)",
+    "IPCC assessment reports and climate-communication research for environmental drivers",
+    "Regulatory-impact and policy-cycle literature (Kingdon's multiple-streams model of agenda and windows)",
+    "Scenario-planning practice (Shell lineage, Schwartz's Art of the Long View) for macro-uncertainty handling"
+  ],
+  "pitfalls": [
+    "Headline-reactive analysis — treating every political event as a trend driver without assessing magnitude, duration, and transmission channels",
+    "Assuming stated values equal behavior — the documented attitude-action gap in ethical and political consumption",
+    "Ignoring policy lags — regulation proposed, passed, enforced, and felt on very different timelines",
+    "Single-country framing of global drivers — elections, wars, and climate effects transmit across borders unevenly",
+    "Scenario planning without probabilities, triggers, or monitoring — scenarios as decoration rather than decision tools"
+  ]
+}

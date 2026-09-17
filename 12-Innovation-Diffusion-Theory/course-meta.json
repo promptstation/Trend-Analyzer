@@ -1,0 +1,24 @@
+{
+  "course_number": 12,
+  "course_title": "Innovation Diffusion Theory",
+  "folder": "12-Innovation-Diffusion-Theory",
+  "discipline_framing": "Diffusion of innovations research, adoption science, and technology-management theory applied to how new products, ideas, and technologies spread through populations",
+  "domain_short": "Innovation diffusion",
+  "audience": "Trend analysts, product and growth strategists, innovation consultants, and researchers who must judge where an innovation sits on its adoption curve and forecast its path to the mass market",
+  "sources": [
+    "Rogers, Diffusion of Innovations (5th edition) — the foundational synthesis: adopter categories, innovation attributes, diffusion elements",
+    "Moore, Crossing the Chasm — the technology-market lifecycle and the early-adopter-to-majority gap",
+    "Bass, 'A New Product Growth for Model Consumer Durables' and the Bass diffusion model literature",
+    "Rogers-lineage meta-analyses and critical reassessments (e.g., Downes & Mui on attribute predictive validity; the pro-innovation and individual-blame biases Rogers himself acknowledged)",
+    "Christensen, The Innovator's Dilemma — disruptive-innovation theory and its documented critique (Lepore; the King & Baatartogtokh HBR assessment)",
+    "Granovetter's threshold models and the weak-ties/network literature on diffusion pathways",
+    "Contemporary diffusion research: virality versus adoption distinctions, platform-era S-curves, and Gartner Hype Cycle methodology and its limitations"
+  ],
+  "pitfalls": [
+    "Treating adopter categories as personality types rather than position-in-time summaries of adoption order",
+    "Assuming the chasm always exists or always doesn't — Moore's gap is context-dependent, not a law",
+    "Misusing the Bass model — fitting it to short data, confusing innovation/imitation parameters, and treating fits as forecasts",
+    "Applying disruption theory loosely (Christensen's specific definition excludes most 'disruptive' label uses)",
+    "Pro-innovation bias — assuming diffusion is always good, inevitable, and complete, ignoring rejection, displacement, and re-invention"
+  ]
+}

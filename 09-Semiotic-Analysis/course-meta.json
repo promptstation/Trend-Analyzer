@@ -1,0 +1,24 @@
+{
+  "course_number": 9,
+  "course_title": "Semiotic Analysis",
+  "folder": "09-Semiotic-Analysis",
+  "discipline_framing": "Semiotics, visual communication theory, and cultural analysis applied to decoding signs, aesthetics, and brand symbolism in trend intelligence",
+  "domain_short": "Semiotic analysis",
+  "audience": "Trend analysts, brand and design strategists, cultural researchers, and marketers who must decode what aesthetics like cottagecore or cyberpunk and brand symbols actually mean — and how meanings shift",
+  "sources": [
+    "Saussure, Course in General Linguistics — signifier/signified, the structuralist foundation",
+    "Peirce's semiotic — icon/index/symbol triad and unlimited semiosis (via Chandler and Eco)",
+    "Barthes, Mythologies, 'Rhetoric of the Image', and The Fashion System — denotation, connotation, myth",
+    "Chandler, Semiotics: The Basics — the standard working introduction",
+    "Kress & Van Leeuwen, Reading Images: The Grammar of Visual Design — social-semiotic image analysis",
+    "Eco, A Theory of Semiotics, and Berger, Signs in Contemporary Culture for applied cultural analysis",
+    "Commercial semiotics practice literature (Semionaut lineage, cultural-code mapping in brand research) and aesthetic-taxonomy sources (Aesthetics Wiki documentation)"
+  ],
+  "pitfalls": [
+    "Unconstrained interpretation — reading any meaning into any sign without systematic method or contextual evidence",
+    "Treating connotation as fixed dictionary fact rather than culturally and historically variable",
+    "Analyzing signs in isolation from the syntagms, codes, and audiences that give them meaning",
+    "Confusing the analyst's decoding with the audience's actual reading (encoding/decoding mismatch)",
+    "Aesthetic labeling without analysis — using 'cottagecore' as a vibe tag rather than decoding its sign system"
+  ]
+}
