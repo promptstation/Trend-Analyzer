@@ -1,0 +1,24 @@
+{
+  "course_number": 3,
+  "course_title": "Time-Series Forecasting & Predictive Modeling",
+  "folder": "03-Time-Series-Forecasting-and-Predictive-Modeling",
+  "discipline_framing": "Statistical learning, econometrics, and forecasting science applied to trend trajectory analysis",
+  "domain_short": "Time-series forecasting",
+  "audience": "Trend analysts, data scientists, forecasters, and strategists who must separate transient fads from structural trends and predict how measured interest, demand, or attention will move over time",
+  "sources": [
+    "Hyndman & Athanasopoulos, Forecasting: Principles and Practice (OTexts, open edition)",
+    "Chatfield, The Analysis of Time Series: An Introduction (Chapman & Hall/CRC)",
+    "Shumway & Stoffer, Time Series Analysis and Its Applications (Springer open text)",
+    "Makridakis, Spiliotis & Assimakopoulos, M-competition findings on statistical vs ML vs deep-learning forecast accuracy",
+    "Taylor & Letham, Facebook Prophet documentation and paper",
+    "Amazon, Google, and Nixtla documentation and papers for DeepAR, TimesFM, Chronos, and TimeGPT foundation models",
+    "Google Trends official documentation and the nowcasting literature (e.g., Preis, Moat & Stanley on search-volume prediction)"
+  ],
+  "pitfalls": [
+    "Confusing correlation in time with forecast skill, and reporting in-sample fit as if it were out-of-sample accuracy",
+    "Ignoring seasonality, holidays, and calendar artifacts, then attributing their effects to trend shifts",
+    "Leaking future information through features, scaling, or evaluation splits",
+    "Choosing models by fashion (deep learning default) rather than by backtested accuracy on the actual data volume and noise level",
+    "Reporting point forecasts without uncertainty, or intervals that fail coverage in practice"
+  ]
+}
