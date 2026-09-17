@@ -1,0 +1,25 @@
+{
+  "course_number": 1,
+  "course_title": "Natural Language Processing & Sentiment Analysis",
+  "folder": "01-Natural-Language-Processing-and-Sentiment-Analysis",
+  "discipline_framing": "natural language processing and sentiment analysis for trend intelligence — processing millions of social media posts, reviews, and search queries to measure the emotional undercurrents of the public",
+  "domain_short": "NLP and sentiment analysis",
+  "audience": "a motivated learner progressing from competent beginner toward expert practitioner in NLP-driven trend and sentiment analysis",
+  "sources": [
+    "Jurafsky & Martin, Speech and Language Processing (3rd ed. draft); Manning & Schütze, Foundations of Statistical Natural Language Processing",
+    "Liu, Sentiment Analysis: Mining Opinions, Sentiments, and Emotions; Pang & Lee, Opinion Mining and Sentiment Analysis (foundations and trends)",
+    "canonical papers: Mikolov et al. (word2vec), Pennington et al. (GloVe), Blei et al. (LDA), Devlin et al. (BERT), Vaswani et al. (Attention Is All You Need), Hamilton et al. (diachronic word embeddings)",
+    "social-media NLP: Eisenstein, Natural Language Processing for Social Media; Blodgett et al. on dialect bias; Barbieri et al. (emoji and Twitter semantics)",
+    "VADER (Hutto & Gilbert) documentation and SemEval shared-task archives (sentiment, ABSA, stance, irony)",
+    "annotation and evaluation: Pustejovsky & Stubbs, Natural Language Annotation for Machine Learning; datasheets for datasets (Gebru et al.); benchmark-contamination literature",
+    "platform data docs: Google Trends methodology documentation, Wikipedia pageviews API docs, current platform API terms (X, Reddit, TikTok Research API); AoIR ethical guidelines for internet research; Bender & Gebru, On the Dangers of Stochastic Parrots"
+  ],
+  "pitfalls": [
+    "trusting lexicon sentiment scores on out-of-domain text without validation",
+    "ignoring sarcasm, irony, slang drift, and dialect variation — and shipping models with dialect bias",
+    "confusing message volume and engagement with sentiment or public mood",
+    "aggregate mood claims built on unvalidated micro-level scores (ecological fallacy)",
+    "scraping and collecting text data in violation of ToS, privacy law, or research ethics",
+    "overclaiming emotion-detection accuracy and treating benchmarks as ground truth in the LLM era"
+  ]
+}
