@@ -1,0 +1,25 @@
+{
+  "course_number": 2,
+  "course_title": "Network & Graph Theory",
+  "folder": "02-Network-and-Graph-Theory",
+  "discipline_framing": "network and graph theory for trend analysis — mapping and modeling how ideas, content, and behaviors spread through social, information, and platform networks",
+  "domain_short": "network science",
+  "audience": "a motivated learner progressing from competent beginner toward expert practitioner in network science applied to information spread and trend analysis",
+  "sources": [
+    "Newman, Networks (2nd ed.); Barabási, Network Science (free textbook) and Linked; Watts, Six Degrees and Small Worlds",
+    "Easley & Kleinberg, Networks, Crowds, and Markets; Borgatti, Everett & Johnson, Analyzing Social Networks",
+    "classic papers: Granovetter (strength of weak ties), Milgram (small world), Watts & Strogatz, Barabási & Albert, Kempe, Kleinberg & Tardos (influence maximization), Centola & Macy (complex contagion), Vosoughi, Roy & Aral (spread of falsehood)",
+    "cascade and virality research: Cheng et al. (cascade structure prediction), Goel, Watts & Goldstein (anatomy of large-scale diffusion), Watts & Dodds (influentials)",
+    "methodological rigor: Clauset, Shalizi & Newman (power-law fitting), Broido & Clauset (scale-free rarity debate), Shalizi & Thomas on contagion claims, Aral, Muchnik & Sundararajan on influence identification",
+    "tools documentation: NetworkX, igraph, graph-tool, cdlib, Gephi manuals; temporal networks (Holme & Saramäki), multilayer networks (Kivelä et al.)",
+    "applied references: muchatka/multilayer toolkits, graph database docs (Neo4j), and platform engineering blogs on recommendation and graph infrastructure"
+  ],
+  "pitfalls": [
+    "confusing co-occurrence or co-engagement with causal spread",
+    "claiming power laws or scale-free structure without rigorous fitting and goodness-of-fit testing",
+    "treating platform follow-graphs as complete social graphs despite API sampling bias",
+    "running influence maximization theory as if platform algorithmic curation did not intervene",
+    "computing centrality on partial graphs and ranking 'influencers' without fake-engagement checks",
+    "static network metrics answering dynamic questions, and homophily mistaken for influence"
+  ]
+}
