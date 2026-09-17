@@ -1,0 +1,24 @@
+{
+  "course_number": 6,
+  "course_title": "Heuristics & Decision-Making",
+  "folder": "06-Heuristics-and-Decision-Making",
+  "discipline_framing": "Judgment and decision science, behavioral economics, and consumer psychology applied to the biases, FOMO, herd mentality, and social proof that drive purchase spikes and trend adoption",
+  "domain_short": "Heuristics and decision-making",
+  "audience": "Trend analysts, marketers, product and growth teams, and researchers who must explain sudden demand spikes and adoption waves — and audit their own judgment for the same biases",
+  "sources": [
+    "Kahneman, Thinking, Fast and Slow, and the Tversky-Kahneman heuristics-and-biases research program",
+    "Gigerenzer's ecological-rationality and fast-and-frugal-heuristics work (the adaptive-heuristic counterpoint)",
+    "Cialdini, Influence — social proof, scarcity, commitment, authority, reciprocity, liking, unity",
+    "Thaler & Sunstein, Nudge, and the choice-architecture and defaults literature",
+    "Banerjee and Bikhchandani-Hirshleifer-Welch information-cascade models of herd behavior",
+    "Przybylski-lineage FOMO research and the scarcity/urgency experimental literature (Cialdini's commodity theory roots)",
+    "Mathur, Gunawan & Gray et al. on dark-pattern prevalence and regulation, plus the replication-crisis reassessments of priming-era behavioral findings"
+  ],
+  "pitfalls": [
+    "Treating biases as fixed laws of human nature rather than context-dependent tendencies with contested effect sizes",
+    "Ignoring the bias blind spot — assuming consumers are biased while the analyst's own trend calls are objective",
+    "Confusing correlation-with-purchase for causal persuasion effects in observed spikes",
+    "Sliding from explaining behavior into manipulating it without ethical and legal guardrails",
+    "Over-relying on single-study findings from literatures hit by replication failures"
+  ]
+}
