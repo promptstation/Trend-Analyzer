@@ -1,0 +1,24 @@
+{
+  "course_number": 5,
+  "course_title": "Memetics & Virality",
+  "folder": "05-Memetics-and-Virality",
+  "discipline_framing": "Cultural evolution, internet meme studies, and diffusion science applied to the replication, mutation, and selection of viral ideas",
+  "domain_short": "Memetics and virality",
+  "audience": "Trend analysts, cultural strategists, social media researchers, and brand teams who must explain and anticipate how memes and viral content evolve and spread",
+  "sources": [
+    "Dawkins, The Selfish Gene (the meme concept) and the subsequent memetics literature (Dennett, Blackmore, Journal of Memetics archive)",
+    "Shifman, Memes in Digital Culture (MIT Press) — internet meme studies, participatory culture, memetic dimensions",
+    "Berger, Contagious (STEPPS framework) and Berger & Milkman's empirical study of most-emailed content",
+    "Know Your Meme and meme-documentation practice as primary genealogical sources",
+    "Cheng, Adamic, Kleinberg lineage on cascade prediction and viral dynamics research",
+    "Miltner & Highfield, Wiggins, Milner, and Phillips (This Is Why We Can't Have Nice Things) on meme communities, politics, and ambivalence",
+    "Coleman and folklore/digital-culture scholarship on memes as folk expression"
+  ],
+  "pitfalls": [
+    "Treating memetics' gene analogy literally — memes lack clear units, fidelity, and copying mechanisms, and the critiques matter for analysis",
+    "Confusing virality (a spread pattern) with quality, truth, or representativeness of an audience",
+    "Attributing spread to content features alone while ignoring platform amplification, timing, and network position",
+    "Assuming meme adoption signals endorsement — irony, ambivalence, and participation without belief are the norm",
+    "Trend-jacking memes without understanding community ownership and context, triggering backlash"
+  ]
+}
