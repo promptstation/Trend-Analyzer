@@ -1,0 +1,24 @@
+{
+  "course_number": 7,
+  "course_title": "Netnography",
+  "folder": "07-Netnography",
+  "discipline_framing": "Qualitative digital ethnography and consumer research applied to online community behavior and the digital tribes of Gen Z and Gen Alpha",
+  "domain_short": "Netnography",
+  "audience": "Trend analysts, consumer researchers, brand strategists, UX researchers, and academics who must understand online communities from the inside — meanings, norms, and behaviors that metrics alone cannot reveal",
+  "sources": [
+    "Kozinets, Netnography: The Essential Guide to Qualitative Social Media Research (and its successive editions) — the founding method",
+    "Hine, Virtual Ethnography and Ethnography for the Internet — internet ethnography foundations",
+    "Geertz's thick description and classical ethnographic fieldwork tradition (immersion, participant observation)",
+    "boyd, It's Complicated — networked teens' social lives, and Ito et al., Hanging Out, Messing Around, and Geeking Out",
+    "Arnould & Thompson's consumer culture theory (CCT) program connecting ethnography to markets",
+    "Charmaz, Constructing Grounded Theory, and Braun & Clarke's thematic analysis for qualitative coding",
+    "Association of Internet Researchers (AoIR) ethical guidelines for internet research"
+  ],
+  "pitfalls": [
+    "Treating public visibility as ethical clearance — public data can still harm vulnerable communities when analyzed and reported",
+    "Drive-by research: scraping posts without immersion, missing the norms, in-jokes, and context that make data interpretable",
+    "Assuming online personas equal offline identities, or that vocal community members represent the silent majority",
+    "Extracting subcultural insights for commercial use without credit, consent, or community benefit",
+    "Letting the analyst's own platform fluency (or illiteracy) bias interpretation — reflexivity omitted"
+  ]
+}
